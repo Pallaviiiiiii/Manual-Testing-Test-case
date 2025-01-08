@@ -17,3 +17,17 @@
 7. Here we use Zephyr to execute test case as well we use excel to create more test case.
 
 ![sololearn](https://github.com/user-attachments/assets/34a05a8b-295c-4819-b1c0-97247e8a5e17)
+
+
+**Manual Testing Projects: Online Payment Portal**
+
+
+1. I created and executed a set of comprehensive test cases to validate the payment functionality for a customer/agent platform. 
+
+2. This included testing scenarios such as successful payments with service fee deductions, handling invalid merchant accounts, and ensuring proper error messages for insufficient balance and minimum payment requirements.
+
+3. I verified the expected behavior of the system by conducting functional, boundary, and validation tests, documenting all findings using tools like JIRA for bug tracking.
+
+4. This experience enhanced my understanding of the SDLC and strengthened my skills in manual testing and defect reporting.
+
+![payment](https://github.com/user-attachments/assets/c438eff2-222c-4d8b-aafd-6cabbb0af1b7)
