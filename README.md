@@ -1,4 +1,4 @@
-# Manual-Testing-Test-case
+# Manual-Testing
 
 **Manual Testing Project: SoloLearn**
 
