@@ -16,6 +16,12 @@
 
 7. Here we use Zephyr to execute test case as well we use excel to create more test case.
 
+8. Designed and executed comprehensive test cases for the Sololearn - Learn to Code project, specifically focusing on the Introduction to Python module.
+Achieved a 100% test case execution rate, ensuring thorough validation of project functionalities.
+Categorized test results into Success, Failure, and Out of Scope, identifying and documenting 40 test cases with detailed metrics.
+Utilized structured reporting to present outcomes and metrics effectively, contributing to enhanced project quality assurance.
+
+
 ![sololearn](https://github.com/user-attachments/assets/34a05a8b-295c-4819-b1c0-97247e8a5e17)
 
 
